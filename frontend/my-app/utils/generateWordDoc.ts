@@ -1,4 +1,5 @@
 import { Document, Packer, Paragraph, TextRun, ExternalHyperlink } from "docx";
+import { saveAs } from "file-saver";
 import { FacilityData, ManualInputs } from "../types/facility";
 
 function row(label: string, value: string | null | undefined): Paragraph {
