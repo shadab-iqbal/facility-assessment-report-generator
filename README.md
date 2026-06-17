@@ -4,6 +4,10 @@ A full-stack web application that allows Medelite directors to instantly pull pu
 
 ---
 
+> ⚠️ **Note:** The backend is hosted on Render's free tier and may take 30–60 seconds
+> to respond on the first request after a period of inactivity. Please wait and try again
+> if the initial fetch is slow.
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
