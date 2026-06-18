@@ -52,7 +52,7 @@ export default function FacilityAssessmentApp() {
               border: "none",
             }}
           >
-            {loading ? "Searching..." : "Fetch Facility"}
+            {loading ? "Searching... (First time may take a moment)" : "Fetch Facility"}
           </button>
         </div>
 
